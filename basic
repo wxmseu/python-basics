@@ -3,3 +3,9 @@
 a=1.5555
 print('%.2f' % a)
 round(a,2)
+
+
+#  enumerate(iter,start=)
+枚举 函数 返回两个值，第一个为索引，第二个为元素
+
+all()函数  如果全部为TRUE 返回true  否则返回false
